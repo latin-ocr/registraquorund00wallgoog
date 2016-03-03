@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./registraquorund00wallgoog_0035.png"; bbox 0 0 3588 5838; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 439 2391 1163 2471">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 439 2391 1163 2471">
+     <span class='ocr_line' id='line_1_1' title="bbox 439 2391 1163 2471; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 439 2391 694 2470; x_wconf 86' lang='lat' dir='ltr'>SUMMARY</span> <span class='ocrx_word' id='word_1_2' title='bbox 715 2391 776 2470; x_wconf 82' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 797 2393 898 2470; x_wconf 81' lang='grc' dir='ltr'><strong>ΤΗΕ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 918 2391 1163 2471; x_wconf 75' lang='lat' dir='ltr'>CONTENTS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 333 2784 1262 2889">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 333 2784 1262 2889">
+     <span class='ocr_line' id='line_1_2' title="bbox 333 2784 1262 2889; baseline -0.002 -1"><span class='ocrx_word' id='word_1_5' title='bbox 333 2784 686 2889; x_wconf 81' lang='lat' dir='ltr'>“REGISTRUM</span> <span class='ocrx_word' id='word_1_6' title='bbox 712 2797 966 2889; x_wconf 82' lang='lat' dir='ltr'><strong>ABBATIAE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 991 2797 1262 2889; x_wconf 79' lang='lat' dir='ltr'><strong>JOHANle</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 557 2967 1037 3076">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 557 2967 1037 3076">
+     <span class='ocr_line' id='line_1_3' title="bbox 557 2967 1037 3076; baseline 0.006 -21"><span class='ocrx_word' id='word_1_8' title='bbox 557 2967 1037 3076; x_wconf 72' lang='lat' dir='ltr'><strong>WHETHAMSTEDE‚</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 276 3140 1318 3322">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 276 3140 1318 3322">
+     <span class='ocr_line' id='line_1_4' title="bbox 276 3140 1318 3322; baseline -0.005 -103"><span class='ocrx_word' id='word_1_9' title='bbox 276 3143 462 3219; x_wconf 78' lang='lat' dir='ltr'>ABBATIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 483 3143 934 3322; x_wconf 48' lang='lat' dir='ltr'><strong>MONASTlgfflIcfflAEfflH</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 949 3143 1128 3236; x_wconf 81' lang='lat' dir='ltr'><strong>ALBANL</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1144 3140 1318 3218; x_wconf 80' lang='lat' dir='ltr'>ITERUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1798 5838">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1798 5838">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1798 5838; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1798 5838; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

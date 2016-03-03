@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./registraquorund00wallgoog_0009.png"; bbox 0 0 3588 5838; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 112 2289 1540 2670">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 112 2289 1540 2670">
+     <span class='ocr_line' id='line_1_1' title="bbox 112 2289 1532 2428; baseline -0.001 -22"><span class='ocrx_word' id='word_1_1' title='bbox 112 2292 440 2406; x_wconf 70' lang='lat' dir='ltr'>REGISTRUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 474 2289 722 2403; x_wconf 69' lang='lat' dir='ltr'><strong>ABBATIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 756 2289 1022 2404; x_wconf 77' lang='lat' dir='ltr'><strong>JOHANNIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1058 2291 1532 2428; x_wconf 71' lang='lat' dir='ltr'>WHETHAMSTEDE‚</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 305 2455 1540 2670; baseline -0.003 -18"><span class='ocrx_word' id='word_1_5' title='bbox 305 2559 536 2652; x_wconf 70' lang='lat' dir='ltr'><strong>ABBATIS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 561 2557 897 2651; x_wconf 67' lang='lat' dir='ltr'>MoNAsfflssss</span> <span class='ocrx_word' id='word_1_7' title='bbox 925 2557 1119 2650; x_wconf 72' lang='lat' dir='ltr'>SANOTI</span> <span class='ocrx_word' id='word_1_8' title='bbox 1144 2557 1364 2670; x_wconf 79' lang='lat' dir='ltr'><strong>ALBANI,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1535 2455 1540 2465; x_wconf 18' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 601 2836 1068 2912">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 601 2836 1068 2912">
+     <span class='ocr_line' id='line_1_3' title="bbox 601 2836 1068 2912; baseline -0.004 -10"><span class='ocrx_word' id='word_1_10' title='bbox 601 2840 772 2905; x_wconf 80' lang='lat' dir='ltr'>ITERUM</span> <span class='ocrx_word' id='word_1_11' title='bbox 793 2839 1043 2912; x_wconf 78' lang='lat' dir='ltr'>SUSCEPTAE3</span> <span class='ocrx_word' id='word_1_12' title='bbox 1065 2836 1068 2840; x_wconf 75' lang='grc'>’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 163 3073 1476 3172">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 163 3073 1476 3172">
+     <span class='ocr_line' id='line_1_4' title="bbox 163 3073 1476 3172; baseline -0.009 -10"><span class='ocrx_word' id='word_1_13' title='bbox 163 3077 369 3162; x_wconf 73' lang='grc' dir='ltr'><strong>ΒΟΒΕΜῸ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 390 3075 637 3172; x_wconf 78' lang='lat' dir='ltr'>BLAKENEY,</span> <span class='ocrx_word' id='word_1_15' title='bbox 662 3075 923 3170; x_wconf 78' lang='lat' dir='ltr'>OAPELLANO,</span> <span class='ocrx_word' id='word_1_16' title='bbox 951 3075 1161 3156; x_wconf 78' lang='lat' dir='ltr'><strong>QUONDAM</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1184 3073 1476 3153; x_wconf 72' lang='lat' dir='ltr'><strong>ADSGRIPTUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1798 5838">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1798 5838">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1798 5838; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1798 5838; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
